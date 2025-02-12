@@ -6,8 +6,8 @@ const QUANTITY = "0.001";
 const PERIOD = 14;
 
 const API_URL = "https://testnet.binance.vision" // https://api.binance.com
-const API_KEY = "OUzHV4RY0pHkMTY6j5mKOQbQGiAkkR6xLJzRr0TBvH2HkFkXKFVOFDRccxbmeThC";
-const SECRET_KEY = "utPmPXHJaVsirjvCJAo7oOXekNcwXKLIgrBLcOvTQdCygeMXBDH0d94xSQ4VrBvZ";
+const API_KEY = "XXXX";
+const SECRET_KEY = "XXXX";
 
 function averages(prices, period, startIndex) {
     let gains = 0, losses = 0;
